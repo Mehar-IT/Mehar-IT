@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there i am a Programmer,Cricketer and a good Friend..
+### I am a Programmer,Cricketer and a good Friend..
 
 
 - 🔭 I’m currently working on Flutter/Dart
