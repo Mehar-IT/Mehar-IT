@@ -1,16 +1,36 @@
 ### Hi there 👋
+### Hi there i am a Programmer,Cricketer and a good Friend..
 
-<!--
-**Mehar-IT/Mehar-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flutter/Dart
+- 🌱 I’m currently learning Firebase
+- 👯 I’m looking to collaborate on creating contents!
+- 🤔 I’m looking for help with Design
+- 💬 Ask me about Git Commands,Json,Flutter/Dart
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can sleep without code..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+<a href="https://twitter.com/HamzaTarique">
+  <img align="left" alt="Hamza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://github.com/Mehar-IT">
+  <img align="left" alt="Hamza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/hamza.arainpak/">
+  <img align="left" alt="Hamza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/hamzatariquearain1">
+  <img align="left" alt="Hamza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCYVmVG1YppIn-L3FQ_DQtHw/featured">
+  <img align="left" alt="Hamza's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
