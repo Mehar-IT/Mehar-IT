@@ -2,8 +2,8 @@
 ### I am a Programmer,Cricketer and a good Friend..
 
 
-- 🔭 I’m currently working on Flutter/Dart
-- 🌱 I’m currently learning Firebase
+- 🔭 I’m currently working on portfolio website
+- 🌱 I’m currently learning Firebase/Flutter/Dart
 - 👯 I’m looking to collaborate on creating contents!
 - 🤔 I’m looking for help with Design
 - 💬 Ask me about Git Commands,Json,Flutter/Dart
