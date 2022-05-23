@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Programmer,Cricketer and a good Friend..
+### I am a programmer,cricketer and a good friend..
 
 
 # 💫About Me :
