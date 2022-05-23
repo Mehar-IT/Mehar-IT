@@ -3,13 +3,13 @@
 
 
 # 💫About Me :
-🔭 I’m currently working on portfolio website
-🌱 I’m currently learning Firebase/Flutter/Dart
-👯 I’m looking to collaborate on creating contents!
-🤔 I’m looking for help with Design
-💬 Ask me about Git Commands,Json,Flutter/Dart,Node.js
-😄 Pronouns: he/him
-⚡ Fun fact: I can sleep without code..
+- 🔭 I’m currently working on portfolio website
+- 🌱 I’m currently learning Firebase/Flutter/Dart
+- 👯 I’m looking to collaborate on creating contents!
+- 🤔 I’m looking for help with Design
+- 💬 Ask me about Git Commands,Json,Flutter/Dart,Node.js
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can sleep without code..
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamzatariquearain1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza.arainpak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HamzaTarique) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCYVmVG1YppIn-L3FQ_DQtHw) [![Github](https://img.shields.io/badge/Github-%23161b24.svg?logo=Github&logoColor=white)](https://github.com/Mehar-IT)
