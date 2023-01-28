@@ -4,10 +4,10 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on portfolio website
-- 🌱 I’m currently learning Firebase/Flutter/Dart
+- 🌱 I’m currently learning Mern
 - 👯 I’m looking to collaborate on creating contents!
 - 🤔 I’m looking for help with Design
-- 💬 Ask me about Git Commands,Json,Flutter/Dart,Node.js
+- 💬 Ask me about Git,ReactJS,Node.js
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sleep without code..
 
