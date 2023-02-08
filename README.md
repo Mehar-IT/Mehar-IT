@@ -1,4 +1,4 @@
-### Hola, I'm [Hamza Tarique!](https://mehar-it.github.io/portfolio.github.io/) 👋
+### Hola, I'm [Hamza Tarique!](https://mehar-it.github.io/new_portfolio/) 👋
 ### I am a programmer,cricketer and a good friend..
 
 
